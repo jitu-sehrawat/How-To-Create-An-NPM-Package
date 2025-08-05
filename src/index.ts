@@ -1,3 +1,3 @@
 export { add } from './utils.js';
 
-console.log("dummy")
+console.log("github actions")
